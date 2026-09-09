@@ -9,5 +9,7 @@ public class Employee{
 		System.out.println("Sum");
 		System.out.println("hello");
 		System.out.println("from me");
+		System.out.println("Bye");
+
 	}
 }
