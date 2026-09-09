@@ -5,4 +5,7 @@ public class Employee{
 		System.out.println("Byee ......");
 		System.out.println("Hello....");
 	}
+	public void sum(){
+		System.out.println("Sum");
+	}
 }
