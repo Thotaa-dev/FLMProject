@@ -24,6 +24,7 @@ public class Employee{
 	}
 	public void div(){
 		System.out.println("Div");
-
+		System.out.println("2nd");
 	}
+
 }
