@@ -26,5 +26,6 @@ public class Employee{
 		System.out.println("Div");
 		System.out.println("2nd");
 	}
+	public void mod(){}
 
 }
