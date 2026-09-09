@@ -17,6 +17,9 @@ public class Employee{
 		System.out.println("hello");
 		System.out.println("from me");
 		System.out.println("Bye");
+	}
+	public void mul(){
+		System.out.println("Mul");
 
 	}
 	public void div(){
