@@ -8,5 +8,7 @@ public class Employee{
 	public void sum(){
 		System.out.println("Sum");
 		System.out.println("hello");
+		System.out.println("Bye");
+
 	}
 }
