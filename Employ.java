@@ -19,4 +19,8 @@ public class Employee{
 		System.out.println("Bye");
 
 	}
+	public void div(){
+		System.out.println("Div");
+
+	}
 }
