@@ -14,9 +14,6 @@ public class Employee{
 	}
 	public void sub(){
 		System.out.println("Sub");
-		System.out.println("hello");
-		System.out.println("from me");
-		System.out.println("Bye");
 	}
 	public void mul(){
 		System.out.println("Mul");
@@ -24,8 +21,9 @@ public class Employee{
 	}
 	public void div(){
 		System.out.println("Div");
-		System.out.println("2nd");
 	}
-	public void mod(){}
+	public void mod(){
+		System.out.println("Mod");
+	}
 
 }
