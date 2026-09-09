@@ -5,4 +5,25 @@ public class Employee{
 		System.out.println("Byee ......");
 		System.out.println("Hello....");
 	}
+	public void sum(){
+		System.out.println("Sum");
+		System.out.println("hello");
+		System.out.println("from me");
+		System.out.println("Bye");
+
+	}
+	public void sub(){
+		System.out.println("Sub");
+	}
+	public void mul(){
+		System.out.println("Mul");
+
+	}
+	public void div(){
+		System.out.println("Div");
+	}
+	public void mod(){
+		System.out.println("Mod");
+	}
+
 }
