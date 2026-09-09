@@ -12,4 +12,11 @@ public class Employee{
 		System.out.println("Bye");
 
 	}
+	public void sub(){
+		System.out.println("Sub");
+		System.out.println("hello");
+		System.out.println("from me");
+		System.out.println("Bye");
+
+	}
 }
